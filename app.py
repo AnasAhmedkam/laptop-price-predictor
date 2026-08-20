@@ -15,8 +15,6 @@ model = joblib.load("laptop_price_model.pkl")
 
 st.title("💻 Laptop Price Predictor")
 
-st.title("💻 Laptop Price Predictor")
-
 st.markdown("### 📱 Get the Android App")
 
 st.link_button(
