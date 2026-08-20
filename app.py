@@ -24,6 +24,15 @@ st.link_button(
     "YOUR_APK_DOWNLOAD_LINK_HERE"
 )
 
+st.title("💻 Laptop Price Predictor")
+
+st.markdown("### 📱 Get the Android App")
+
+st.link_button(
+    "⬇️ Download Android App",
+    "YOUR_APK_DOWNLOAD_LINK_HERE"
+)
+
 company = st.selectbox(
     "Brand",
     ["Apple", "HP", "Lenovo", "Dell", "Asus", "Acer", "MSI", "Toshiba", "Samsung", "Other"]
