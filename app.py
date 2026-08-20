@@ -21,7 +21,7 @@ st.markdown("### 📱 Get the Android App")
 
 st.link_button(
     "⬇️ Download Android App",
-    "YOUR_APK_DOWNLOAD_LINK_HERE"
+    "https://github.com/AnasAhmedkam/laptop-price-predictor/releases/download/v1.0.0/app-release.apk"
 )
 
 st.title("💻 Laptop Price Predictor")
